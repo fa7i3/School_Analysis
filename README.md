@@ -2,6 +2,7 @@
 Purpose of the Analysis:
 Results:
 * How is the district summary affected?
+ 
  The percentages of passing math (i.e from 75	to 74.8), passing reading (i.e. from 86 to 85.7) and overall passing (i.e. from 65 to 64.9) of the adjusted analysis had less than a 1% difference from the original analysis.
  
  Adjusted Analysis
@@ -15,21 +16,23 @@ Results:
 
 
  * How is the school summary affected?
+  
   The percentages of passing math, passing reading, and overall passing of the adjusted analysis had a huge difference from the original analysis due to the removal of the 9th grade students from the data set.
   
   Adjusted Analysis for School Summary
   
-  ![Adjusted Analysis for school summary](https://user-images.githubusercontent.com/104453593/171753384-73f1241a-0a85-4cf5-a4d3-124820e4c89a.PNG)
+  ![Adjusted Analysis for school summary](https://user-images.githubusercontent.com/104453593/171753844-c356b3a3-31f1-4280-98f6-b2102e4dec07.PNG)
 
 
   Original Analysis for School Summary
   
   
-  ![Original Analysis for School Summary](https://user-images.githubusercontent.com/104453593/171753398-acc25cfa-8206-4539-95a3-9438938cc4a5.PNG)
+ ![Original Analysis for School Summary](https://user-images.githubusercontent.com/104453593/171753855-f9865bfa-ccb9-4d50-b6cc-7f82cf03d4c4.PNG)
 
- 
   
  * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+ 
+  
  * How does replacing the ninth-grade scores affect the following:
 Math and reading scores by grade
 Scores by school spending
