@@ -1,7 +1,7 @@
 # School_Analysis
 Purpose of the Analysis:
 Results:
-How is the district summary affected?
+* How is the district summary affected?
  The percentages of passing math (i.e from 75	to 74.8), passing reading (i.e. from 86 to 85.7) and overall passing (i.e. from 65 to 64.9) of the adjusted analysis had less than a 1% difference from the original analysis.
  Adjusted Analysis
  
