@@ -19,14 +19,15 @@ Results:
   
   Adjusted Analysis for School Summary
   
-  
- ![Adjusted Analysis for school summary](https://user-images.githubusercontent.com/104453593/171752700-50780133-b29e-4a39-ba18-9752c820b2b2.PNG)
+  ![Adjusted Analysis for school summary](https://user-images.githubusercontent.com/104453593/171753384-73f1241a-0a85-4cf5-a4d3-124820e4c89a.PNG)
 
-  
+
   Original Analysis for School Summary
   
-  ![Original Analysis for School Summary](https://user-images.githubusercontent.com/104453593/171752836-7969bdf0-9ff6-4510-8837-4864ad5c3064.PNG)
+  
+  ![Original Analysis for School Summary](https://user-images.githubusercontent.com/104453593/171753398-acc25cfa-8206-4539-95a3-9438938cc4a5.PNG)
 
+ 
   
  * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
  * How does replacing the ninth-grade scores affect the following:
