@@ -1,5 +1,8 @@
 # School_Analysis
 Purpose of the Analysis:
+
+The project aims at analysing and gathering information about 15 different schools. The analysis focused on the overall passing, math and reading percentages from different schools to prepare for a board meeting. After the board reviewed the data, it was discovered that the 9th grade class of Thomas High School was accused of academic dishonesty. The board requested for the 9th grade data be removed and re-analyzed.
+
 Results:
 * How is the district summary affected?
  
