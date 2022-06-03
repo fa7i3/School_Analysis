@@ -82,3 +82,15 @@ Original School size.
 
 ![Original school size](https://user-images.githubusercontent.com/104453593/171768956-9a910153-6d8c-4d31-8dc3-619814b18d77.PNG)
 
+Scores by school type:
+
+Replacing the ninth-grade scores had liitle or no effect on the school type.
+
+Adjusted School type:
+
+![Adjusted schhol type](https://user-images.githubusercontent.com/104453593/171769250-82b33025-35f4-41d8-bcff-29e77169894f.PNG)
+
+
+Original School type:
+
+![Original School type](https://user-images.githubusercontent.com/104453593/171769277-38eca056-8375-4730-9736-3706320085d6.PNG)
