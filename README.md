@@ -6,7 +6,7 @@ The project aims at analysing and gathering information about 15 different schoo
 Results:
 * How is the district summary affected?
  
- The percentages of passing math (i.e from 75	to 74.8), passing reading (i.e. from 86 to 85.7) and overall passing (i.e. from 65 to 64.9) of the adjusted analysis had less than a 1% difference from the original analysis.
+ The percentages of passing math (i.e. from 75	to 74.8), passing reading (i.e. from 86 to 85.7) and overall passing (i.e. from 65 to 64.9) of the adjusted analysis had less than a 1% difference from the original analysis.
  
  Adjusted Analysis
  
@@ -64,7 +64,7 @@ Adjusted Reading Scores
 
 Scores by school spending:
 
-Replacing the ninth-grade scores had liitle or no effect on the school spending.
+Replacing the ninth-grade scores had little or no effect on the school spending.
 Adjusted School spending
 
 ![Adjusted spending summary](https://user-images.githubusercontent.com/104453593/171768440-71ff51b0-e088-431a-9dc4-a199968d71a6.PNG)
@@ -76,7 +76,7 @@ Original School spending
 
 Scores by school size:
 
-Replacing the ninth-grade scores had liitle or no effect on the school size.
+Replacing the ninth-grade scores had little or no effect on the school size.
 
 Adjusted School size.
 
@@ -88,7 +88,7 @@ Original School size.
 
 Scores by school type:
 
-Replacing the ninth-grade scores had liitle or no effect on the school type.
+Replacing the ninth-grade scores had little or no effect on the school type.
 
 Adjusted School type:
 
