@@ -58,6 +58,14 @@ Adjusted Reading Scores
 ![adjusted reading score](https://user-images.githubusercontent.com/104453593/171767884-b4442234-e642-46bd-ad9e-fdbfab72e1ff.PNG)
 
 
-Scores by school spending
-Scores by school size
-Scores by school type
+Scores by school spending:
+Replacing the ninth-grade scores had liitle or no effect on the school spending.
+Adjusted School spending
+
+![Adjusted spending summary](https://user-images.githubusercontent.com/104453593/171768440-71ff51b0-e088-431a-9dc4-a199968d71a6.PNG)
+
+
+Original School spending
+
+![Original Spending summary](https://user-images.githubusercontent.com/104453593/171768470-25119a87-a04a-4111-9804-19aa55732138.PNG)
+
