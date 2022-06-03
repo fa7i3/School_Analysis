@@ -40,7 +40,7 @@ Results:
   ![original analysis for school performance](https://user-images.githubusercontent.com/104453593/171765046-813da092-80d1-4f43-9b9c-daac12b1fc34.PNG)
 
   
-  In the adjusted analysis, Thomas High School ranked in the bootom schools due to the reduction in the overall passing percentage.
+  In the adjusted analysis, Thomas High School ranked in the bottom schools due to the reduction in the overall passing percentage.
  
  * How does replacing the ninth-grade scores affect the following:
  
