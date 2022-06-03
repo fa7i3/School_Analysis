@@ -97,7 +97,10 @@ Original School type:
 
 Summary:
 Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
-
+1) Overall passing percentage drastically dropped from 90.948012% to 65.076453%.
+2) The math and reading scores for Thomas High School will show up as NAN in reports.
+3) Thomas High School dropped in ranking from 2nd.
+4) Due to the change in scores, the reading, math and passing percentages had a little or no change.
 
 
 
