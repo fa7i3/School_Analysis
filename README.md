@@ -45,6 +45,7 @@ Results:
  * How does replacing the ninth-grade scores affect the following:
  
 Math and reading scores by grade: 
+
 Replacing both ninth-grade's math and reading scores with null values shows up as NAN in the following charts.
 
 Adjusted Math scores
