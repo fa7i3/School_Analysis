@@ -94,3 +94,10 @@ Adjusted School type:
 Original School type:
 
 ![Original School type](https://user-images.githubusercontent.com/104453593/171769277-38eca056-8375-4730-9736-3706320085d6.PNG)
+
+Summary:
+Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+
+
+
+
